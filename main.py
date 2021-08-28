@@ -49,7 +49,7 @@ mst_dpc = load_mst_dpc()
 mdc2df = load_mdc2df()
 mdc6df = load_mdc6df()
 
-st.markdown('# 患者数分析 (2019年度退院患者調査)')
+st.markdown('## 患者数分析 (2019年度退院患者調査)')
 
 col1, col2, col3 = st.columns([2, 2, 6])
 
